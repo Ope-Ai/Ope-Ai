@@ -5,6 +5,6 @@
 - 📫 How to reach me opeoluwathompson@gmail.com
 
 <!---
-Ope-Ai/Ope-Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ope-Ai/datascience intro practice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
