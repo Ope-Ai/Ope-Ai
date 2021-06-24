@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ope-Ai
+- 👋 Hi, I’m @OpeThompson
 - 👀 I’m interested in Machine Learing and Artificial Intelligence in healthcare
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML in healthcare delivery
